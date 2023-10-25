@@ -14,14 +14,16 @@ export default function SimpleContainer() {
           justifyContent: "center",
           alignItems: "center",
           paddingTop: "40px",
-          paddingLeft: "10px",
-          paddingRight: "10px",
+          paddingLeft: "2%",
+          paddingRight: "2%",
           textAlign: "center",
           color: "#7b2cbf",
           fontWeight: "bold",
+    
+        
         }}
       >
-        University Of Medicine , Magway
+        University Of Medicine,Magway
       </Typography>
       <CssBaseline />
       <Container maxWidth="sm">
