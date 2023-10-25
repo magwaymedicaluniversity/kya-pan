@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kya-pan/static/css/main.abd64e84.css",
+    "main.js": "/kya-pan/static/js/main.358e044b.js",
+    "static/media/qr-code.png": "/kya-pan/static/media/qr-code.9085b3fad78a3fe1973b.png",
+    "static/media/ummg-log.png": "/kya-pan/static/media/ummg-log.bbcaf49b1a97f8a44017.png",
+    "static/media/RubikGemstones-Regular.ttf": "/kya-pan/static/media/RubikGemstones-Regular.2d68e250828973f224f5.ttf",
+    "index.html": "/kya-pan/index.html",
+    "main.abd64e84.css.map": "/kya-pan/static/css/main.abd64e84.css.map",
+    "main.358e044b.js.map": "/kya-pan/static/js/main.358e044b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.358e044b.js"
+  ]
+}
